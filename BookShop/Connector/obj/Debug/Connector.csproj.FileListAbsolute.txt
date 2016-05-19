@@ -1,5 +1,0 @@
-E:\Project\BookShop\Connector\bin\Debug\Connector.dll
-E:\Project\BookShop\Connector\bin\Debug\Connector.pdb
-E:\Project\BookShop\Connector\obj\Debug\Connector.csprojResolveAssemblyReference.cache
-E:\Project\BookShop\Connector\obj\Debug\Connector.dll
-E:\Project\BookShop\Connector\obj\Debug\Connector.pdb

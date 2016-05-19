@@ -1,9 +1,0 @@
-E:\Project\BookShop\BUS\bin\Debug\BUS.dll
-E:\Project\BookShop\BUS\bin\Debug\BUS.pdb
-E:\Project\BookShop\BUS\bin\Debug\Connector.dll
-E:\Project\BookShop\BUS\bin\Debug\Model.dll
-E:\Project\BookShop\BUS\bin\Debug\Connector.pdb
-E:\Project\BookShop\BUS\bin\Debug\Model.pdb
-E:\Project\BookShop\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
-E:\Project\BookShop\BUS\obj\Debug\BUS.dll
-E:\Project\BookShop\BUS\obj\Debug\BUS.pdb

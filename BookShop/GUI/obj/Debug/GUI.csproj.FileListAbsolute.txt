@@ -1,0 +1,11 @@
+E:\Project\BookShop\GUI\bin\Debug\GUI.exe.config
+E:\Project\BookShop\GUI\bin\Debug\GUI.exe
+E:\Project\BookShop\GUI\bin\Debug\GUI.pdb
+E:\Project\BookShop\GUI\bin\Debug\BUS.dll
+E:\Project\BookShop\GUI\bin\Debug\BUS.pdb
+E:\Project\BookShop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Project\BookShop\GUI\obj\Debug\GUI.home.resources
+E:\Project\BookShop\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Project\BookShop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Project\BookShop\GUI\obj\Debug\GUI.exe
+E:\Project\BookShop\GUI\obj\Debug\GUI.pdb
